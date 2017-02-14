@@ -1,4 +1,5 @@
-# Assignment : Minimise
+# Assignment : Minimise : Pg 468 (QAM Book)
+# Package lpSolve
 # City Offices : Hirees : New City Added : NY
 # Find Assignment of Hirees to City to min cost
 library(lpSolve)
